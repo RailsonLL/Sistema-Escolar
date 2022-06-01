@@ -1,0 +1,5 @@
+{"cursos":[
+    {"codigo":"1", "descricao": "Java", "horarios":"Segundas e quartas, 9h", "professor":"Neri"},
+    {"codigo":"2", "descricao": "Deplhi", "horarios":"Terças e quintas, 18h", "professor":"Rodolfo"},
+    {"codigo":"3", "descricao": "Python", "horarios":"Sextas, 15h", "professor":"Zelia"}
+]}
